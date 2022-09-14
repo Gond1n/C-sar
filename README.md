@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jogo da cobrinha</title>
+    <title>Snake Game</title>
 </head>
 <body>
  
